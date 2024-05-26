@@ -1,6 +1,6 @@
 # Funcionalidades-simples
  Repositório destinado para a criação de algumas funcionalidades simples de sites
----
-**Funcionalidade 01**  
-a primeira funcionalidade criada consiste na função de deixar visível o campo de senha nas telas de login
----
+___
+#_**Primeira funcionalidade**_:  
+a primeira funcionalidade criada consiste na função de esconder/mostrar a senha no input password nas telas de login
+___
